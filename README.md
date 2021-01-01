@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on jails in FreeBSD RELEASE. You can visit my **work** @ https://vgnshlv.nz
+- This repo will contain rc vars, PF Firewall rules, & jail init scripts.
+
+- 📫 How to reach me: Twitter: @vgnshlvnz
